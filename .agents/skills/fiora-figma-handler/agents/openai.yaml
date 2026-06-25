@@ -1,0 +1,8 @@
+interface:
+  display_name: "Fiora Figma Handler"
+  short_description: "Converts Figma designs into SwiftUI."
+  default_prompt: "Use $fiora-figma-handler to implement or audit SwiftUI from Figma."
+
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Daryl the Decomposer"
+  short_description: "Breaks requests into ordered tasks for specialist agents."
+  default_prompt: "Use $daryl-the-decomposer to break this request into delegable tasks."
+
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Arthur the Architect"
+  short_description: "Plans and reviews Swift app architecture."
+  default_prompt: "Use $arthur-the-architect to plan or review a Swift feature architecture."
+
+policy:
+  allow_implicit_invocation: true
+

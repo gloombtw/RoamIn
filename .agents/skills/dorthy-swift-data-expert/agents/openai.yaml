@@ -1,0 +1,8 @@
+interface:
+  display_name: "Dorthy Swift Data Expert"
+  short_description: "Writes and reviews SwiftData models and queries."
+  default_prompt: "Use $dorthy-swift-data-expert to design or review SwiftData code."
+
+policy:
+  allow_implicit_invocation: true
+

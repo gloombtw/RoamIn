@@ -1,0 +1,8 @@
+interface:
+  display_name: "Rory the Researcher"
+  short_description: "Researches patterns, tradeoffs, risks, and current guidance."
+  default_prompt: "Use $rory-the-researcher to research common implementation patterns."
+
+policy:
+  allow_implicit_invocation: true
+

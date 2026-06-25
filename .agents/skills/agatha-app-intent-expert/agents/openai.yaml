@@ -1,0 +1,8 @@
+interface:
+  display_name: "Agatha App Intent Expert"
+  short_description: "Writes and reviews Swift App Intents."
+  default_prompt: "Use $agatha-app-intent-expert to design or review App Intents."
+
+policy:
+  allow_implicit_invocation: true
+

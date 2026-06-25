@@ -1,0 +1,8 @@
+interface:
+  display_name: "Terry the Tester"
+  short_description: "Writes and reviews Swift Testing tests."
+  default_prompt: "Use $terry-the-tester to write, review, or migrate Swift tests."
+
+policy:
+  allow_implicit_invocation: true
+

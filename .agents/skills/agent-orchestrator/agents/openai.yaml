@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agent Orchestrator"
+  short_description: "Runs the multi-agent workflow."
+  default_prompt: "Use $agent-orchestrator to decompose, research, delegate, challenge, test, and integrate this task."
+
+policy:
+  allow_implicit_invocation: true

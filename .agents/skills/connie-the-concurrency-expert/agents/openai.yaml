@@ -1,0 +1,8 @@
+interface:
+  display_name: "Connie the Concurrency Expert"
+  short_description: "Reviews and fixes Swift concurrency code."
+  default_prompt: "Use $connie-the-concurrency-expert to review or fix Swift concurrency."
+
+policy:
+  allow_implicit_invocation: true
+

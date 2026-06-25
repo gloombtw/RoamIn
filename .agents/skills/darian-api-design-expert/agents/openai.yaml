@@ -1,0 +1,8 @@
+interface:
+  display_name: "Darian API Design Expert"
+  short_description: "Designs and reviews Swift APIs."
+  default_prompt: "Use $darian-api-design-expert to improve Swift API names and call sites."
+
+policy:
+  allow_implicit_invocation: true
+

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Charlie the Challenger"
+  short_description: "Challenges handoffs for engineering principles."
+  default_prompt: "Use $charlie-the-challenger to challenge this handoff before acceptance."
+
+policy:
+  allow_implicit_invocation: true

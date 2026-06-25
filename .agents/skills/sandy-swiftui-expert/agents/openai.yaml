@@ -1,0 +1,8 @@
+interface:
+  display_name: "Sandy SwiftUI Expert"
+  short_description: "Writes and reviews SwiftUI code."
+  default_prompt: "Use $sandy-swiftui-expert to build or review SwiftUI."
+
+policy:
+  allow_implicit_invocation: true
+
